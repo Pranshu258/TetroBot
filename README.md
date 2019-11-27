@@ -117,7 +117,7 @@ h: On h key press, the cylinder is finalized and the mode resets back to center 
 cylinder center.
 ```
 ```
-D: Pressing ’D’ toggles between Creation mode and Animation Mode.
+D: Pressing ’D’ toggles between Creation mode and Animation Mode. Once in animation mode, simply clicking anywhere on the terrain will mark the next goal towards which the tetrobot has to move. 
 ```
 ### 5.2 Animation Mode
 
